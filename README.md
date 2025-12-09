@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emaan Chaudhary</h1>
 <h3 align="center">A passionate DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
 
-- 🔭 I’m currently working on **CI/CD pipelines automation**
+- 🔭 hey,,I’m currently working on **CI/CD pipelines automation**
 
 - 🌱 I’m currently learning **Terraform, AWS, and Azure** 
 
